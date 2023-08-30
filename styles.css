@@ -1,0 +1,17 @@
+:root {
+  --red: #e50914;
+  --black: #000000;
+  --light-color: #181818;
+  --box-shadow: 0 0.5rem 1.5rem rgb(242, 14, 14);
+}
+
+img {
+  width: 100%;
+}
+.img:hover {
+  box-shadow: 4px 4px 30px rgb(242, 14, 14);
+}
+
+.hide{
+    
+}
